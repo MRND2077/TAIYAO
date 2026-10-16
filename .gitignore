@@ -1,0 +1,14 @@
+# 系统 / 编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 生成物（如需重新生成，跑 python src/build.py）
+# 注：index.html 需要提交，因为它是给下载用户的成品
+!index.html
